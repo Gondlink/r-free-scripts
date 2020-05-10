@@ -1,6 +1,6 @@
 ﻿!`::
 
-clipboard := "mike_nelson@student.unh.edu"
+clipboard := "your@email.com"
 
 Escape::         ;stops the program
 ExitApp
