@@ -10,5 +10,5 @@ Loop, 10000000000 {
 		;Do nothing
 	} else {                     ;if they are the same, move the mouse
 		MouseMove, X1 + 100, Y1
-	}
+	} 
 }
